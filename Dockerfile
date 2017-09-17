@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER Cyril Nguyen <cyril.nguyen@gmail.com>
+MAINTAINER Cyril Nguyen <cyril@cyril.com>
 ENV FOO bar
 EXPOSE 80 8080
 COPY src /home/root/javahelloworld/src
